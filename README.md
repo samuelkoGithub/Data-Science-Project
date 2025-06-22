@@ -1,3 +1,3 @@
-# Data-Science-Project
+# Data-Science-Projects
 To start my data science projects here
 This is my self-learning process about the Netflix data analysis
